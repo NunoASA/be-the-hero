@@ -1,3 +1,3 @@
 "# be-the-hero" 
 
-by NUNO Almeida
+by NUNO
